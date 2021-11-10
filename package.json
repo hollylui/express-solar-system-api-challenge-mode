@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  },
+  "name": "express-solar-system-api-hollylui",
+  "description": "This project will have you building an API for accessing datasets about our solar system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E03/express-solar-system-api-hollylui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E03/express-solar-system-api-hollylui/issues"
+  },
+  "homepage": "https://github.com/FbW-E03/express-solar-system-api-hollylui#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
